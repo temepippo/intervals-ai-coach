@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T08:24:22.554419",
+  "generated_at": "2026-06-23T10:48:14.976909",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -2709,6 +2709,27 @@
           "zone": 3,
           "training_load": 72.4396,
           "decoupling": 6.178597
+        }
+      ]
+    },
+    {
+      "activity_id": "i159629996",
+      "date": "2026-06-23",
+      "type": "Run",
+      "name": "\ub7ec\ub2dd",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2975,
+          "avg_power": 300,
+          "max_power": 406,
+          "avg_hr": 132,
+          "max_hr": 143,
+          "avg_cadence": 79.90756,
+          "zone": 3,
+          "training_load": 55.4958,
+          "decoupling": 4.6311097
         }
       ]
     }
