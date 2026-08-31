@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:44:34.608335",
+  "generated_at": "2026-08-31T00:54:24.861545",
   "version": "3.112",
   "script_hash": "a60c2ee19b34",
   "scan_hours": 72,
@@ -644,6 +644,54 @@
           "zone": 1,
           "training_load": 1.056401,
           "decoupling": 4.1631002
+        }
+      ]
+    },
+    {
+      "activity_id": "i181430724",
+      "date": "2026-08-31",
+      "type": "Run",
+      "name": "Hakata Ward \ub7ec\ub2dd",
+      "interval_summary": [
+        "1x 50s 419w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 691,
+          "avg_power": 241,
+          "max_power": 549,
+          "avg_hr": 137,
+          "max_hr": 151,
+          "avg_cadence": 59.118668,
+          "zone": 2,
+          "training_load": 11.58712,
+          "decoupling": 18.0029
+        },
+        {
+          "type": "WORK",
+          "label": "50s@419w84rpm",
+          "duration_secs": 50,
+          "avg_power": 419,
+          "max_power": 449,
+          "avg_hr": 145,
+          "max_hr": 157,
+          "avg_cadence": 83.8,
+          "zone": 5,
+          "training_load": 1.3444474,
+          "decoupling": 5.4571066
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 975,
+          "avg_power": 18,
+          "max_power": 832,
+          "avg_hr": 96,
+          "max_hr": 157,
+          "avg_cadence": 6.1394873,
+          "zone": 1,
+          "training_load": 1.2841786,
+          "decoupling": 67.563515
         }
       ]
     }
