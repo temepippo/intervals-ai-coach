@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-11T03:07:30.089490",
+    "last_updated": "2026-11-11T10:58:46.162558",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -209,10 +209,10 @@
       }
     },
     "current_metrics": {
-      "weight_kg": 97.3,
+      "weight_kg": 96.2,
       "display": {
         "weight": {
-          "value": 97.3,
+          "value": 96.2,
           "unit": "kg"
         }
       },
@@ -238,7 +238,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 181,
+      "steps": 3049,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -249,14 +249,19 @@
       "readiness": null
     },
     "weight": {
-      "weight_latest_kg": 97.3,
-      "weight_latest_date": "2026-11-10",
-      "wkg_current": 2.23,
+      "weight_latest_kg": 96.2,
+      "weight_latest_date": "2026-11-11",
+      "wkg_current": 2.26,
       "wkg_ftp_source": "tested",
       "ftp_setting_date": "2026-10-12",
+      "weight_7d_avg_kg": 97.5,
       "display": {
         "weight_latest": {
-          "value": 97.3,
+          "value": 96.2,
+          "unit": "kg"
+        },
+        "weight_7d_avg": {
+          "value": 97.5,
           "unit": "kg"
         }
       }
@@ -485,7 +490,7 @@
     "p_max": 744,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-11T03:07:30.087960",
+    "calculation_timestamp": "2026-11-11T10:58:46.161261",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 7,
@@ -986,9 +991,12 @@
     },
     {
       "date": "2026-11-11",
-      "weight_kg": null,
+      "weight_kg": 96.2,
       "display": {
-        "weight": null
+        "weight": {
+          "value": 96.2,
+          "unit": "kg"
+        }
       },
       "resting_hr": 57,
       "hrv_rmssd": 46.0,
@@ -1016,7 +1024,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 181,
+      "steps": 3049,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
