@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-26T04:43:30.594738",
+    "last_updated": "2026-11-26T14:31:03.316323",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.112"
@@ -230,10 +230,10 @@
       }
     },
     "current_metrics": {
-      "weight_kg": 96.6,
+      "weight_kg": 97.1,
       "display": {
         "weight": {
-          "value": 96.6,
+          "value": 97.1,
           "unit": "kg"
         }
       },
@@ -259,7 +259,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 219,
+      "steps": 8442,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -270,14 +270,14 @@
       "readiness": null
     },
     "weight": {
-      "weight_latest_kg": 96.6,
-      "weight_latest_date": "2026-11-15",
-      "wkg_current": 2.25,
+      "weight_latest_kg": 97.1,
+      "weight_latest_date": "2026-11-26",
+      "wkg_current": 2.23,
       "wkg_ftp_source": "tested",
       "ftp_setting_date": "2026-10-12",
       "display": {
         "weight_latest": {
-          "value": 96.6,
+          "value": 97.1,
           "unit": "kg"
         }
       }
@@ -485,7 +485,7 @@
     "p_max": 733,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-26T04:43:30.593450",
+    "calculation_timestamp": "2026-11-26T14:31:03.315066",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 7,
@@ -754,9 +754,12 @@
     },
     {
       "date": "2026-11-26",
-      "weight_kg": null,
+      "weight_kg": 97.1,
       "display": {
-        "weight": null
+        "weight": {
+          "value": 97.1,
+          "unit": "kg"
+        }
       },
       "resting_hr": 59,
       "hrv_rmssd": 33.0,
@@ -784,7 +787,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 219,
+      "steps": 8442,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
